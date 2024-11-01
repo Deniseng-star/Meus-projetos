@@ -1,2 +1,2 @@
 # Meus projetos
- Projeto aplicativo
+ Projeto aplicativo loja de cupcakes
